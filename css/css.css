@@ -25,14 +25,19 @@ header.logo {
     height: 100px;
     background: hsl(253, 78%, 49%);
     width: 20%;
+    
 }
 
 header nav {
     height: 100px;
     background: #888;
     width: 80%;
+
 }
 
+li {
+    cursor: pointer;
+}
 
 /* end header  */
 
@@ -73,5 +78,5 @@ header nav {
 
 /* end footer  */
 .h1 {
-    color: blue;
+    color: rgb(17, 186, 192);
 }
